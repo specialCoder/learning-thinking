@@ -4,14 +4,18 @@
 1.基本格式
 ----------
 
-- 缩进 4个空格/一个制表符
+- 缩进
+
+4个空格/一个制表符
+
 - 语句结尾
+
 *自动分号插入机制ASI（Automatic Semicolon Insert）会自动寻找代码中应当使用分号但是实际上没有使用分号的位置，并插入分号*
- >  function getData(){
- >       return
- >    {}
- >  }
- >  => return;{}
+    function getData(){
+        return
+        {}
+        }
+    => return;{}
 （3）行的长度  80
 （4）换行 
 在运算符后换行，第二行追加两个层级缩进
@@ -69,18 +73,16 @@ if (isTrue) {
 }
 语句块间隔推荐使用：if空格(xxx)空格{
 switch缩进推荐使用：
-switch(){
-        case 'first':
-        // 代码
-        break;
-        
-    case 'second':
-        // 代码
-        break;
-        
-    default:
-        break;
-}
+        switch(){
+            case 'first':
+                // 代码
+                break;
+            case 'second':
+                // 代码
+                break;
+            default:
+                break;
+        }
 注意：1）case的连续执行
         2）default不要省略 或者 写了注释的情况下省略default （ // 没有default）
 width不应当继续使用
