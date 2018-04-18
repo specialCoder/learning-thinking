@@ -221,3 +221,7 @@
 - 对特定功能进行探测
 
 ## 三：自动化（略）
+
+## 更全面的推荐方案
+
+[Airbnb](https://github.com/airbnb/javascript/blob/b4d8543f120ba761ae7f39caf850c1e4efdc2727/es5/README.md)
