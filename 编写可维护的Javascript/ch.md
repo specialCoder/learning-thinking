@@ -114,7 +114,7 @@
     }
     注意：1）case的连续执行
          2）default不要省略 或者 写了注释的情况下省略default （ // 没有default）
-- width不应当继续使用
+- with不应当继续使用
 - for循环中避免使用continue
 - for-in循环：以键值做遍历，不仅遍历实例上的属性，还遍历从原型上继承来的属性。最好使用hasOwnPrototype()方法过滤
 
