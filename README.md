@@ -10,7 +10,8 @@
 二 目录
 ------------
 
-1. [《编写可维护的Javascript》](/编写可维护的Javascript/index.md)
+- [《编写可维护的Javascript》](/编写可维护的Javascript/index.md)
+- [LeetCode](/LeetCode/index.md)
 
 三 后记
 -------------
