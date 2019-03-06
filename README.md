@@ -10,7 +10,7 @@
 二 目录
 ------------
 
-1. 《编写可维护的Javascript》
+1. [《编写可维护的Javascript》](/编写可维护的Javascript/index.md)
 
 三 后记
 -------------
