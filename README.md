@@ -1,4 +1,4 @@
-BookSummary
+知识图谱
 ===========
 
 一 前言
@@ -10,7 +10,7 @@ BookSummary
 二 目录
 ------------
 
-1. 《编写可维护的Javascript》
+1. [《编写可维护的Javascript》](/编写可维护的Javascript/index.md)
 
 三 后记
 -------------
