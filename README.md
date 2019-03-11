@@ -10,9 +10,9 @@
 二 目录
 ------------
 
-- [《编写可维护的Javascript》](/编写可维护的Javascript/index.md)
+- [编写可维护的Javascript](/编写可维护的Javascript/index.md)
 - [LeetCode](/LeetCode/index.md)
-
+- [Javascript设计模式](/Javascript设计模式/index.md)
 三 后记
 -------------
 
