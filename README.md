@@ -11,6 +11,7 @@
 ------------
 
 - [编写可维护的Javascript](/编写可维护的Javascript/index.md)
+- [算法基础](/算法基础/index.md)
 - [LeetCode](/LeetCode/index.md)
 - [Javascript设计模式](/Javascript设计模式/index.md)
 
