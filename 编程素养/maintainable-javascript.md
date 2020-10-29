@@ -263,7 +263,7 @@ doSomething (item);
 // 另一种写法
 (function(){})()
 ```
-##### 相等 ===
+#### 相等 ===
 >由于JavaScript具有强制类型转换机制（type coercion），JavaScript中的判断相等操作是很微妙的。
 ```javascript
 // 推荐使用 ====
